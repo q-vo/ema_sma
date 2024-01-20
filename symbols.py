@@ -1,0 +1,5 @@
+indexes = ['SPY', 'QQQ']
+sectors = ['XLC', 'XLY', 'XLP', 'XLE', 'XLF', 'XLV', 'XLI', 'XLB', 'XLRE', 'XLK', 'XLU']
+metals = ['GLD', 'SLV']
+bonds = ['TLT']
+vols = ['VIXY', 'VIXM']
